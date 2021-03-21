@@ -82,4 +82,4 @@
     <li>After clicking on the "Send" Button, you should be able to see your post request added to your database, in the Body section</li>
 </ol>
 
-<h4><Similarly you can try your hands with PUT, PATCH, DELETE</h4>
+<strong><Similarly you can try your hands with PUT, PATCH, DELETE</strong>
