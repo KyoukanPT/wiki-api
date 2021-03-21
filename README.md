@@ -18,6 +18,7 @@
 <h3>How to use this App locally (In Your Computer)</h3>
 4 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
 5 - After you successfully connect to MongoDB (Step 4), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+6 - Test API with Postman (see further down below)
 
 <hr>
 
@@ -68,6 +69,18 @@
     <li>Make a Request — To make a request, click on New -> Request -> GetUser(Any request name you wish) -> Select a collection or folder to save to -> Save to New Collection</li>
     <li>In the “Enter Request URL” text box type : localhost:3000/articles/</li>
     <li>Click on “Send” Button</li>
+    <li>You should be able to see the below response in the Body section</li>
+</ol>
+<br>
+<br>
+<strong>Testing POST Requests</strong> <br>
+<ol>
+    <li>From the Dropdown select POST</li>
+    <li>In the “Enter Request URL” text box, type : localhost:3000/articles/<li>
+    <li>Click on Body Tab and select “x-www-form-urlencoded” radio button</li>
+    <li>In the Key Colum, add "title" and "content". In the Value Column, add the title and content that you want to insert in your database.</li>
+    <li>Click on Send button</li>
+    <li>You should be able to see the below response in the Body section</li>
 </ol>
 
 
