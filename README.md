@@ -68,20 +68,22 @@
     <li>Make a collection in Postman — To make a collection in Postman, click on New -> Collection -> CollectionDemo(Any Collection Name you wish) -> Create</li>
     <li>Make a Request — To make a request, click on New -> Request -> GetUser(Any request name you wish) -> Select a collection or folder to save to -> Save to New Collection</li>
     <li>In the “Enter Request URL” text box type : localhost:3000/articles/</li>
-    <li>Click on “Send” Button</li>
+    <li>Click on the “Send” Button</li>
     <li>You should be able to see the below response in the Body section</li>
 </ol>
-<br>
 <br>
 <strong>Testing POST Requests</strong> <br>
 <ol>
-    <li>From the Dropdown select POST</li>
-    <li>In the “Enter Request URL” text box, type : localhost:3000/articles/<li>
+    <li>From the Dropdown, select POST</li>
+    <li>In the “Enter Request URL” text box, type : localhost:3000/articles/</li>
     <li>Click on Body Tab and select “x-www-form-urlencoded” radio button</li>
     <li>In the Key Colum, add "title" and "content". In the Value Column, add the title and content that you want to insert in your database.</li>
-    <li>Click on Send button</li>
-    <li>You should be able to see the below response in the Body section</li>
+    <li>Click on the "Send" button</li>
+    <li>Make a GET Request to : localhost:3000/articles</li>
+    <li>After clicking on the "Send" Button, you should be able to see your post request added to your database, in the Body section</li>
 </ol>
+
+<p>Similarly you can try your hands with PUT, PATCH, DELETE</p>
 
 
 
