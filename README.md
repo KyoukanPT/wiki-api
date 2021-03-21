@@ -58,10 +58,11 @@
 <hr>
 
 <h3>Test API with Postman(After populating the database)</h3>
-- In case you need to install Postman, go to this website - https://www.postman.com/downloads/
+- In case you need to install Postman, go to this website - https://www.postman.com/downloads/ <br>
 - Select or Create your Workspace - https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/creating-workspaces/
 <br>
-- <strong>Testing GET Requests</strong>
+<br>
+<strong>Testing GET Requests</strong> <br>
 <ol>
     <li>Make a collection in Postman — To make a collection in Postman, click on New -> Collection -> CollectionDemo(Any Collection Name you wish) -> Create</li>
     <li>Make a Request — To make a request, click on New -> Request -> GetUser(Any request name you wish) -> Select a collection or folder to save to -> Save to New Collection</li>
