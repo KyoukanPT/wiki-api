@@ -17,7 +17,7 @@
 
 <h3>How to use this App locally (In Your Computer)</h3>
 4 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
-5 - After you successfully connect to MongoDB (Step 4), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
+5 - After you successfully connect to MongoDB (Step 4), open another new terminal tab and run the following command: <strong>mongo</strong><br>
 6 - Test API with Postman (see further down below)
 
 <hr>
