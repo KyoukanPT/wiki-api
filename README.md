@@ -1,4 +1,4 @@
-<h2>Wiki App</h2>
+<h2>Wiki API</h2>
 
 <p>Instructions on how to download the source files and use the App: </p>
 
