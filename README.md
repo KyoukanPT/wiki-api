@@ -19,9 +19,13 @@
 4 - Open a new terminal tab and run the following command: <strong>mongod</strong><br>
 5 - After you successfully connect to MongoDB (Step 4), open another new terminal tab and run the following command: <strong>mongo</strong><br><br>
 
+<hr>
+
 <h3>MongoDB Documentation</h3>
 - Installation instructions - <strong> https://docs.mongodb.com/manual/administration/install-community/ </strong> <br>
 - How to use mongo shell to query and manipulate the data in your database - <strong>https://docs.mongodb.com/manual/crud/</strong><br><br>
+
+<hr>
 
 <h3>Populate Database</h3>
 
@@ -51,5 +55,20 @@
 
 ```
 
+<hr>
 
-<h3>Test API (After populating the database)</h3>
+<h3>Test API with Postman(After populating the database)</h3>
+- In case you need to install Postman, go to this website - https://www.postman.com/downloads/
+- Select or Create your Workspace - https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/creating-workspaces/
+<br>
+- <strong>Testing GET Requests</strong>
+<ol>
+    <li>Make a collection in Postman — To make a collection in Postman, click on New -> Collection -> CollectionDemo(Any Collection Name you wish) -> Create</li>
+    <li>Make a Request — To make a request, click on New -> Request -> GetUser(Any request name you wish) -> Select a collection or folder to save to -> Save to New Collection</li>
+    <li>In the “Enter Request URL” text box type : localhost:3000/articles/</li>
+    <li>Click on “Send” Button</li>
+</ol>
+
+
+
+
