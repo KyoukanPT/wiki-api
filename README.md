@@ -83,5 +83,5 @@
 </ol>
 
 <strong>Similarly you can try your hands with PUT, PATCH, DELETE</strong>
-<strong>You can check the function of each HTTP Verb here --> https://www.restapitutorial.com/lessons/httpmethods.html#:~:text=The%20primary%20or%20most%2Dcommonly,but%20are%20utilized%20less%20frequently.
 
+<strong>You can check the function of each HTTP Verb here: https://bit.ly/3f844fE</strong>
