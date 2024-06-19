@@ -93,4 +93,4 @@
 
 <strong>Similarly you can try your hands with PUT, PATCH, DELETE</strong>
 
-<strong>You can check the function of each HTTP Verb here: https://bit.ly/3f844fE</strong>
+<strong>You can check the function of each HTTP Verb here: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods</strong>
