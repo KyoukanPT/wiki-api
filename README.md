@@ -4,7 +4,7 @@
 
 <h3>Terminal (Chosen directory to clone the files - Recommended --> Desktop)</h3>
 
-- git clone https://github.com/KyoukanPT/wiki-API.git
+- git clone https://github.com/KyoukanPT/wiki-api.git
 
 <hr>
 
